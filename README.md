@@ -7,8 +7,10 @@ SQL Queries were used to produce key insights and findings regarding players and
 
 1a. **Percentage of Games won by White**
 -> 49.86% 
+ 
  b. **By Black**
 -> 45.40%
+ 
  c. **Games Drawn**
 -> 4.74%
 
