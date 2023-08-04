@@ -5,7 +5,8 @@ The dataset contains data for 20,000+ chess games played on Lichess
 
 SQL Queries were used to produce key insights and findings regarding players and games played. 
 
-1a. **Percentage of Games won by White**
+1
+a. **Percentage of Games won by White**
 -> 49.86% 
  
 b. **By Black**
