@@ -1,6 +1,6 @@
 # Chess_Games_SQL
 
-Data sourced from [Maven Analytics] (https://mavenanalytics.io/data-playground)
+Data sourced from [(https://mavenanalytics.io/data-playground)] 
 The dataset contains data for 20,000+ chess games played on Lichess
 
 SQL Queries were used to produce key insights and findings regarding players and games played. 
